@@ -5,7 +5,9 @@
 
 int main()
 {
-    std::cout << "ローカルリポジトリで変更した場所\n";
+    std::cout << "Hello VisualStudio Git!\n";
+
+	std::cout << "新規ブランチでこの行を追加\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
